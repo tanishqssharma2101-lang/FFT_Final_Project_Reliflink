@@ -1,0 +1,10 @@
+{
+  "name": "relieflink-india-vanilla",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "ReliefLink India built with HTML, CSS, vanilla JavaScript, Node.js and Express (no React)",
+  "scripts": {"start": "node server.js", "dev": "node --watch server.js"},
+  "dependencies": {"express": "^5.1.0", "mongodb": "^6.17.0", "serverless-http": "^3.2.0"},
+  "engines": {"node": ">=22.5"}
+}
